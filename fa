@@ -1,0 +1,17 @@
+[33mcommit 059ac8367089ba7a5b88f1b8fc64c118a8962d66[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: pavelhedge <pavelhedge@gmail.com>
+Date:   Wed Dec 16 19:15:04 2020 +0300
+
+    second commit
+
+[1mdiff --git a/src/com/hedgelabs/Main.java b/src/com/hedgelabs/Main.java[m
+[1mindex 4c2cca8..000a588 100644[m
+[1m--- a/src/com/hedgelabs/Main.java[m
+[1m+++ b/src/com/hedgelabs/Main.java[m
+[36m@@ -6,5 +6,6 @@[m [mpublic class Main {[m
+ 	// write your code here[m
+ [m
+         //first commit code[m
+[32m+[m[32m        //second commit - local[m
+     }[m
+ }[m
